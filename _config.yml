@@ -1,0 +1,13 @@
+title: ASAParking 法律文件
+description: ASAParking iOS App 的隱私權政策與服務條款
+lang: zh-Hant
+theme: jekyll-theme-cayman
+
+# 將 Markdown 連結中的相對路徑（例如 "privacy-policy"）解析為 .html
+permalink: /:basename
+
+# 排除非內容檔
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

@@ -60,7 +60,7 @@
 
 - **撤回位置授權**：可隨時於 iOS「設定 → 隱私權 → 定位服務」中關閉本 App 的位置權限。關閉後本 App 部分功能將無法使用。
 - **取消訂閱**：透過 iOS「設定 → Apple ID → 訂閱項目」管理。
-- **資料刪除請求**：來信至 [support@asaparking.app] 即可請求刪除您透過意見回報提供的資料。
+- **資料刪除請求**：來信至 [hsinyichen@hsinyitech.com] 即可請求刪除您透過意見回報提供的資料。
 - **檢視蒐集範圍**：本 App 的 Privacy Manifest（`PrivacyInfo.xcprivacy`）對 Apple 公開所有蒐集類別。
 
 ## 5. 資料保留
@@ -82,5 +82,5 @@
 
 如對本政策有任何疑問，請來信：
 
-**Email**: support@asaparking.app
+**Email**: hsinyichen@hsinyitech.com
 **開發者**: HsinyiTech

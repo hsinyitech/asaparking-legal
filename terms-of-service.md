@@ -93,5 +93,5 @@
 
 ## 10. 聯絡我們
 
-**Email**: support@asaparking.app
+**Email**: hsinyichen@hsinyitech.com
 **開發者**: HsinyiTech
